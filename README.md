@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Programming Workshops
 
-You can use the [editor on GitHub](https://github.com/divs1210/satyarth-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# What
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Programming 
 
-### Markdown
+Hi! I'm [Divyansh Prakash](https://www.linkedin.com/in/divyansh-prakash-0385bb93/), a 2014 BE (I&CT) graduate from MIT, Manipal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I've been working in the software industry for the last 3 years, and have had the good fortune of using various (cutting edge) technologies in the process. Including hobby projects, I've worked on a broad range of software applications, such as:
+* distributed systems (http://kokonetworks.com/, https://www.helpshift.com/)
+* big data (https://www.helpshift.com/)
+* games (http://divs1210.github.io/kilvish/, http://divs1210.github.io/snake-machine/)
+* compilers, etc. (https://github.com/divs1210/cljos, https://github.com/divs1210/Impala, http://justaddhotwater.webs.com/oojasic.htm)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/divs1210/satyarth-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am also fond of teaching, and have taught or otherwise helped people learn to code / get into the software industry - including several batchmates and juniors from Manipal.
