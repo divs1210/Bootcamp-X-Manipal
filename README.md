@@ -1,4 +1,4 @@
-[![SICP - Wizard Book](http://www.horstmann.com/sjsu/fall2011/cs252/scheme2/wizard-book.jpeg)](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs "SICP - Wizard Book")
+[![SICP - Wizard Book](http://www.horstmann.com/sjsu/fall2011/cs252/scheme2/wizard-book.jpeg)](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
 
 ## Programming Workshops
 
