@@ -2,8 +2,6 @@
 
 # Why?
 
-
-
 # What?
 
 ## Programming Bootcamps
@@ -16,7 +14,9 @@ Java is a popular object-oriented programming language that has permeated the in
 
 [Clojure](http://clojure.org) is a functional programming language that was ranked the [top paying technology](https://insights.stackoverflow.com/survey/2017#technology-top-paying-technologies-by-region) of 2017 according to a survey by StackOverflow.com. It is a member of the [Lisp family of languages](https://en.wikipedia.org/wiki/Lisp_(programming_language)) and hence shares its academic value. Learning Lisp is said to be a [mind-expanding experience](http://www.paulgraham.com/quotes.html).
 
-### About Me
+# Who's it for?
+
+# About Me
 
 Hi! I'm [Divyansh Prakash](https://www.linkedin.com/in/divyansh-prakash-0385bb93/), a 2014 BE (I&CT) graduate from MIT, Manipal.
 
