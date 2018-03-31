@@ -6,7 +6,7 @@
 
 # What?
 
-## Programming Workshops
+## Programming Bootcamps
 
 * **OOP with Java**
 
