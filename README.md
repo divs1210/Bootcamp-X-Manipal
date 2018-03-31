@@ -10,11 +10,11 @@
 
 * **OOP with Java**
 
-Java is a popular programming language that has permeated the industry and is used almost everywhere - from web servers to phones and appliances. Java developers are always in demand - plus it's sure to be in your syllabus if you are in CS or related field.
+Java is a popular programming language that has permeated the industry and is used almost everywhere - from web servers to phones and appliances. Java developers are always in demand - plus it's sure to be in your syllabus if you are in CS or a related field.
 
 * **FP with Clojure**
 
-Clojure is a functional language that was ranked as the [Worldwide Top Paying Technology](https://insights.stackoverflow.com/survey/2017#technology-top-paying-technologies-by-region) according to a survey by StackOverflow.com. It is a member of the [Lisp family of languages](https://en.wikipedia.org/wiki/Lisp_(programming_language)) and hence shares its academic value. Learning Lisp is said to be a [mind-expanding experience](http://www.paulgraham.com/quotes.html).
+[Clojure](http://clojure.org) is a functional language that was ranked as the [Worldwide Top Paying Technology](https://insights.stackoverflow.com/survey/2017#technology-top-paying-technologies-by-region) according to a survey by StackOverflow.com. It is a member of the [Lisp family of languages](https://en.wikipedia.org/wiki/Lisp_(programming_language)) and hence shares its academic value. Learning Lisp is said to be a [mind-expanding experience](http://www.paulgraham.com/quotes.html).
 
 ### About Me
 
